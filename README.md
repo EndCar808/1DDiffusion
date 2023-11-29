@@ -2,7 +2,7 @@
 
 C and MATLAB code to compute the numerical solution of the 1D Diffusion equation using Crank-Nicolson differencing on a periodic domain.
 
-## Build & Run
+## Build & Run C code
 
 1. Change directory into the /C and run the Makefile
 
