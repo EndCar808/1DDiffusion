@@ -4,7 +4,7 @@ C and MATLAB code to compute the numerical solution of the 1D Diffusion equation
 
 ## Build & Run C code
 
-1. Change directory into the /C and run the Makefile
+1. Change directory into the /C folder and run the Makefile
 
 
 ```sh
@@ -12,9 +12,9 @@ cd ./C
 make
 ```
 
-running make creates an executable called `diff`.
+running `make` creates an executable called `diff`.
 
-2. Run the executable
+2. Run the executable for default parameters (these can be manually changed in the diffusion.c file)
 
 
 ```sh
