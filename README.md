@@ -14,7 +14,7 @@ make
 
 running `make` creates an executable called `diff`.
 
-2. Run the executable for default parameters (these can be manually changed in the diffusion.c file)
+2. Run the executable for default parameters (these can be manually changed in the C/diffusion.c file)
 
 
 ```sh
@@ -25,7 +25,7 @@ this will run the code and save the solution data in `Data/C-Data` directory
 
 ## Plot Data
 
-You can analyse the solution data by running the plot.py script
+You can analyse the solution data by running the plot.py script in the parent directory
 
 ```sh
 python3 plot.py
